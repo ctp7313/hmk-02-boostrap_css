@@ -2,7 +2,7 @@ import React from "react";
 import CardColumns from "react-bootstrap/CardColumns";
 import Header from '../components/Header';
 import data from '../components/projects/data.json'
-import {Container} from '../components/Grid/'
+import {Container} from '../components/Grid'
 
 const  project = data.map((data) => {
   return  (

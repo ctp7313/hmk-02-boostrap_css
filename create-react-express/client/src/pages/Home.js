@@ -8,7 +8,7 @@ export default function Home() {
       <Jumbotron main="Chris Parker" subline="Full Stack Web Developer"/>
       <Row className="d-flex justify-content-center">
         <Col size="md-4">
-          <img className="img-fluid" src="https://raw.githubusercontent.com/ctp7313/website_portfolio/master/assets/main_pic.JPG" alt="Portrait of Chris"/>
+          <img className="img-fluid" src="https://raw.githubusercontent.com/ctp7313/website_portfolio/master/create-react-express/client/public/assets/main_pic.JPG" alt="Portrait of Chris"/>
         </Col>
         <Col size="md-8">
             <p>I work in marketing for a Seattle-based freight forwarding doing video and podcast production. 

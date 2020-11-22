@@ -17,10 +17,10 @@
     },
     {
         "id": 3,
-        "image": "https://raw.githubusercontent.com/ctp7313/website_portfolio/master/create-react-express/client/public/note_taker.png",
+        "image": "https://raw.githubusercontent.com/ctp7313/website_portfolio/master/create-react-express/client/public/assets/note_taker.png",
         "title": "Note Taker",
         "desc": "A boot camp homework assignment that required use of Express routes to read, write, and delete from a JSON.",
-        "url": "https://ctp7313.github.io/hmk-11-note-taker/public/index.html",
+        "url": "https://arcane-shore-83151.herokuapp.com/",
         "git": "https://github.com/ctp7313/hmk-11-note-taker"
     },
     {
